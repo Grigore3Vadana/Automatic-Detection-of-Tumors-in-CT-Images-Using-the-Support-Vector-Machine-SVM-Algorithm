@@ -1,8 +1,8 @@
-## SVM Algorithm 
+# SVM Algorithm 
 
 **Overview**
 
-# This Python script uses Support Vector Machines (SVM) for the classification of medical images into two categories: with tumor (tumor) and without tumor (no_tumor). The script includes functions for image loading, preprocessing, feature scaling, model training, validation, testing, and visualization of results. 
+## This Python script uses Support Vector Machines (SVM) for the classification of medical images into two categories: with tumor (tumor) and without tumor (no_tumor). The script includes functions for image loading, preprocessing, feature scaling, model training, validation, testing, and visualization of results. 
 
 You can find more detailed project information in the attached **PDF 'Automatic Tumor Detection_Vădana Ioan-Grigore'**.
 
