@@ -1,4 +1,4 @@
-# SVM Algorithm 
+# Brain Tumor Detection using SVM Algorithm 
 
 **Overview**
 
