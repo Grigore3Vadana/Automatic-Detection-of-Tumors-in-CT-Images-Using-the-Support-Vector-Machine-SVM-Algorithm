@@ -4,7 +4,7 @@
 
 This Python script uses Support Vector Machines (SVM) for the classification of medical images into two categories: with tumor (tumor) and without tumor (no_tumor). The script includes functions for image loading, preprocessing, feature scaling, model training, validation, testing, and visualization of results.
 
-## Additional detailed comparisons and analysis can be found in the attached PDF document, 'Vadana_Ioan_Grigore_334AA_KNN&NB'. This document provides a comprehensive overview of the project findings and methodological approaches.
+## Additional detailed informations and analysis can be found in the attached PDF document, 'Detectarea Automata a Tumorilor_Vadana Ioan-Grigore.pdf'. This document provides a comprehensive overview of the project findings and methodological approaches.
 
 ## Requirements
 
