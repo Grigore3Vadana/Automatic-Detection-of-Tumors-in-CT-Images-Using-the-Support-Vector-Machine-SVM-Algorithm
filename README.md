@@ -17,6 +17,7 @@ Visualization: Visualizes confusion matrix, ROC curve, and precision-recall curv
 Image Display with Predictions: Displays images with predicted labels.
 
 **Usage**
+
 Place your dataset in two separate folders, one for tumor and another for no_tumor images.
 Update the folder paths in the script:
 ---
