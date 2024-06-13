@@ -23,10 +23,10 @@ Image Display with Predictions: Displays images with predicted labels.
 
 Place your dataset in two separate folders, one for tumor and another for no_tumor images.
 Update the folder paths in the script:
----
+
 tumor_images, tumor_labels = load_images_from_folder('path_to_tumor_images', 1)
 no_tumor_images, no_tumor_labels = load_images_from_folder('path_to_no_tumor_images', 0)
----
+
 Run the script to train and test the SVM model on your data.
 
 ## Functions
