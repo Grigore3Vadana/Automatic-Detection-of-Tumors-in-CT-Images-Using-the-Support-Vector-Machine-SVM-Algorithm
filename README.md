@@ -43,9 +43,10 @@ The paths in load_images_from_folder need to be updated to match your dataset's 
 The performance of the model depends on the quality and size of the dataset. This script is intended for educational purposes and may require adjustments for production use.
 
 # License
-This project is protected by copyright and is not available under any public license. All rights are reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, without prior written permission from the author.
 
-© 2024 Vadana Ioan-Grigore. All rights reserved.
+- This project is protected by copyright and is not available under any public license. All rights are reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without prior written permission from the author.
+
+- © 2024 Vadana Ioan-Grigore. All rights reserved.
 
 # Contact
 For support or to report issues, please email grigorevadana3@gmail.com
