@@ -34,8 +34,12 @@ display_image_with_label(image, label): Displays an image with its predicted lab
 The script assumes images are in JPEG format. Modify the load_images_from_folder function if your dataset is in a different format.
 The paths in load_images_from_folder need to be updated to match your dataset's location.
 
-**Disclaimer**
+## Disclaimer ##
 The performance of the model depends on the quality and size of the dataset. This script is intended for educational purposes and may require adjustments for production use.
 
-# © 2024 Vadana Ioan-Grigore. All rights reserved.
+# License
+This project is protected by copyright and is not available under any public license. All rights are reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, without prior written permission from the author.
+
+© 2024 Vadana Ioan-Grigore. All rights reserved.
+
 
